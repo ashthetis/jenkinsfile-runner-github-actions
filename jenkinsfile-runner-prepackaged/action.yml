@@ -7,7 +7,7 @@ branding:
 inputs:
   jenkinsfile:
     description: Jenkinsfile location to test
-    default: test/Jenkinsfile
+    default: Jenkinsfile
     required: false
   pluginstxt:
     description: plugins.txt location
